@@ -1,5 +1,7 @@
 <?php
 
+
+
 /* on affiche  les erreurs, si vous avez une erreur 500, regardez dans votre console */
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
@@ -15,5 +17,7 @@ getPart('header');
 getContent();
 
 
-getUserData();
+
+
+
 
